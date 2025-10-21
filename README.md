@@ -10,6 +10,7 @@ Monitoring & Logging	Log Analytics Workspace	Centralized log collection and quer
 Data Collection Rules (DCR)	Azure Monitor	Defines which telemetry data is collected and where it’s sent
 Managed Identity	System-Assigned Identity	Provides secure, passwordless authentication for the web server
 Subnets	Virtual Network (VNet)	Logical network segmentation for isolating workloads
+
 ⚙️ Deployment Details
 
 Deployment Type: ARM Template / Bicep Deployment
@@ -19,8 +20,6 @@ Resource Group: 923e3945f3-implement-defense-in-depth-on-azure
 Subscription: PS-Real Hands-On-Lab
 
 Status: ✅ Deployment completed successfully
-
-Date: May 6, 2025
 
 Key Deployment Successes
 
