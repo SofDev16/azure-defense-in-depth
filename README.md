@@ -15,10 +15,6 @@ Subnets	Virtual Network (VNet)	Logical network segmentation for isolating worklo
 
 Deployment Type: ARM Template / Bicep Deployment
 
-Resource Group: 923e3945f3-implement-defense-in-depth-on-azure
-
-Subscription: PS-Real Hands-On-Lab
-
 Status: ✅ Deployment completed successfully
 
 Key Deployment Successes
